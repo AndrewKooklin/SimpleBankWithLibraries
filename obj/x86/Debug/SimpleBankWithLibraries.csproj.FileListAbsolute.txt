@@ -1,0 +1,1 @@
+C:\repos\SimpleBankWithLog\SimpleBankWithLog\obj\x86\Debug\SimpleBankWithLibraries.csprojAssemblyReference.cache
